@@ -1,0 +1,24 @@
+maps:
+  Skywars_Map_Labyrinth:
+    spawns:
+      '1':
+        world: Skywars_Map_Labyrinth
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        yaw: 0.0
+        pitch: 0.0
+      '2':
+        world: Skywars_Map_Labyrinth
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        yaw: 0.0
+        pitch: 0.0
+      '3':
+        world: Skywars_Map_Labyrinth
+        x: 0.0
+        y: 0.0
+        z: 0.0
+        yaw: 0.0
+        pitch: 0.0

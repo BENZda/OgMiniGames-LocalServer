@@ -1,0 +1,26 @@
+maps:
+  Skywars_Map_Labyrinth:
+    spawns:
+      '1':
+        world: Skywars_Map_Labyrinth
+        x: 6.625156892753708
+        y: 103.0
+        z: -19.038300742702837
+        yaw: -179.95642
+        pitch: 7.5668645
+      '2':
+        world: Skywars_Map_Labyrinth
+        x: 2.1000801899597374
+        y: 98.0
+        z: 32.47930806387839
+        yaw: -88.66804
+        pitch: 20.857386
+    border:
+      world: Skywars_Map_Labyrinth
+      x: 0.4972956521402441
+      y: 100.75
+      z: 0.529042176261207
+      yaw: 179.8569
+      pitch: 90.0
+      width: 400
+    active: true

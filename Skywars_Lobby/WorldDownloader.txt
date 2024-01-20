@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Fri Jan 05 09:03:11 CET 2024
+WorldName=gommeLOBBY
+LastSaved=1704441791392

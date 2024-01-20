@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Fri Jan 05 00:10:11 CET 2024
+WorldName=Labyrinth
+LastSaved=1704409811578

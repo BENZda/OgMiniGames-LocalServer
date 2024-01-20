@@ -1,0 +1,39 @@
+lobbyspawnpoint:
+  world: world
+  x: -111.58620882139476
+  y: 5.0
+  z: 505.4978759146104
+  pitch: -2.6454015
+  yaw: 269.85754
+navigator:
+  '12':
+    name: "\xa72Skywars"
+    material: GRASS
+    location:
+      world: world
+      x: -173.52115137606432
+      y: 4.0
+      z: 480.4718023263798
+      pitch: -1.8696866
+      yaw: 89.810715
+  '14':
+    name: "\xa76Spawn"
+    material: WATCH
+    location:
+      world: world
+      x: -111.58620882139476
+      y: 5.0
+      z: 505.4978759146104
+      pitch: -2.6454015
+      yaw: 269.85754
+  '16':
+    name: "\xa73Minefighter"
+    material: STONE_PICKAXE
+    location:
+      world: world
+      x: -50.63937101388322
+      y: 4.0
+      z: 480.4590209507431
+      pitch: -1.8695571
+      yaw: 269.8487
+joinMsg: ''
